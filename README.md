@@ -19,5 +19,10 @@ Use docker compose :
 
     $ docker-compose up -d 
 
+
+Use migration : 
+
+    $ python manage.py makemigrations trust
+
 available in : http://127.0.0.1:8000/trust/ ( example )
  
